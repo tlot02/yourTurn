@@ -43,6 +43,10 @@ p {
   transform: translateY(4px);
 }
 
+.number {
+  font-size: 40px;
+}
+
 #dadButton {
   background-color: lightblue;
   border: 4px solid darkblue;
